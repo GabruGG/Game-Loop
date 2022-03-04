@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Game-Loop/static/css/main.f6b03b53.css",
+    "main.js": "/Game-Loop/static/js/main.78420966.js",
+    "index.html": "/Game-Loop/index.html",
+    "main.f6b03b53.css.map": "/Game-Loop/static/css/main.f6b03b53.css.map",
+    "main.78420966.js.map": "/Game-Loop/static/js/main.78420966.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6b03b53.css",
+    "static/js/main.78420966.js"
+  ]
+}
