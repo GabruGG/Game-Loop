@@ -7,8 +7,8 @@ function App() {
   const [pos,setpos]=useState([10,30]);
   console.log(pos);
   function move(){
-    let x=Math.random()*100;
-    let y=Math.random()*100;
+    let x=Math.random()*95;
+    let y=Math.random()*95;
     setpos([y,x]);
     setAttempt((prev)=>(prev+1));
   }
